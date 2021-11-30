@@ -9,6 +9,6 @@ Proofs of concepts:
 
 Interesting projects:
 - [Guider](https://github.com/Niikelion/Guider) - gui library
-- [Noder](https://github.com/Niikelion/Noder) - toolkit for visual scripting
+- [Noder](https://github.com/Niikelion/Noder/tree/dev) - toolkit for visual scripting
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Niikelion?color=%231DA1F2&label=Niikelion&logo=Twitter&style=for-the-badge)](https://twitter.com/Niikelion)
