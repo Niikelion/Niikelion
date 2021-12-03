@@ -8,7 +8,7 @@ Proofs of concepts:
 - [Ffge](https://github.com/Niikelion/ffge) - graphics library
 
 Interesting projects:
-- [Guider](https://github.com/Niikelion/Guider) - gui library
-- [Noder](https://github.com/Niikelion/Noder/tree/dev) - toolkit for visual scripting
+- [Guider&nbsp;<img src="https://github.com/Niikelion/Guider/blob/dev/assets/project-logo.png?raw=true" height="21.6px" align="top"/>](https://github.com/Niikelion/Guider) - gui library
+- [Noder&nbsp;<img src="https://github.com/Niikelion/Noder/blob/dev/assets/project-logo.png?raw=true" height="21.6px" align="top"/>](https://github.com/Niikelion/Noder/tree/dev) - toolkit for visual scripting
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Niikelion?color=%231DA1F2&label=Niikelion&logo=Twitter&style=for-the-badge)](https://twitter.com/Niikelion)
