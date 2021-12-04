@@ -1,5 +1,5 @@
 ## Hi there 👋
-Second year CS student from MIM faculty at University of Warsaw.
+Third year CS student from MIM faculty at University of Warsaw.
 
 Proofs of concepts:
 - [Nhash](https://github.com/Niikelion/nhash) - compile-time string hashing
