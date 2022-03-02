@@ -6,6 +6,7 @@ Proofs of concepts:
 - [Arcdoc](https://github.com/Niikelion/Arcdoc) - documentation generator
 - [Nullscript](https://github.com/Niikelion/Nullscript) - text parser
 - [Ffge](https://github.com/Niikelion/ffge) - graphics library
+- [Mia](https://github.com/TheReclif/MIA) - metadata generator for cpp
 
 Interesting projects:
 - [Guider&nbsp;<img src="https://github.com/Niikelion/Guider/blob/dev/assets/project-logo.png?raw=true" height="21.6px" align="top"/>](https://github.com/Niikelion/Guider) - gui library
