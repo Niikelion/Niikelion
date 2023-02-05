@@ -6,7 +6,7 @@ Fluent in C# (Unity, low-level servers), Assembler, C, C++ (sfml, tools and serv
 Interested in physical and graphics engines for games, front-end and back-end web development, tools for task automation and parallel processing systems for use in servers and games, as well as text processing, especially designing and implementing various scripting and compiled languages.
 
 Some of my interesting projects:
-- [<img src="https://github.com/Niikelion/Guider/blob/dev/assets/project-logo.png?raw=true" height="21.6px" align="top"/>&nbsp;Guider](https://github.com/Niikelion/Guider) - gui library
+- [<img src="https://github.com/Niikelion/Guider/blob/dev/assets/project-logo.png?raw=true" height="21.6px" align="top"/>&nbsp;Guider](https://github.com/Niikelion/Guider) - GUI library
 - [<img src="https://github.com/Niikelion/Noder/blob/dev/assets/project-logo.png?raw=true" height="21.6px" align="top"/>&nbsp;Noder](https://github.com/Niikelion/Noder/tree/dev) - toolkit for visual scripting
 
 Some of my projects in the proof-of-concept stage:
