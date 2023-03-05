@@ -14,5 +14,6 @@ Some of my projects in the proof-of-concept stage:
 - [Arcdoc](https://github.com/Niikelion/Arcdoc) - documentation generator
 - [Mia](https://github.com/TheReclif/MIA) - metadata generator for cpp
 - [Void](https://github.com/Niikelion/Voidlang) - void compiler
+- [Lithium](https://github.com/Niikelion/lithium-ui) - reactive UI framework for Unity
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Niikelion?color=%231DA1F2&label=Niikelion&logo=Twitter&style=for-the-badge)](https://twitter.com/Niikelion)
