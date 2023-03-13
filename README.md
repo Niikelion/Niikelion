@@ -14,6 +14,6 @@ Some of my projects in the proof-of-concept stage:
 - [Nhash](https://github.com/Niikelion/nhash) - compile-time string hashing
 - [Arcdoc](https://github.com/Niikelion/Arcdoc) - documentation generator
 - [Mia](https://github.com/TheReclif/MIA) - metadata generator for cpp
-- [Void](https://github.com/Niikelion/Voidlang) - void compiler
+- [Void](https://github.com/Niikelion/Voidlang/tree/dev) - void compiler
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Niikelion?color=%231DA1F2&label=Niikelion&logo=Twitter&style=for-the-badge)](https://twitter.com/Niikelion)
