@@ -8,6 +8,7 @@ Interested in physical and graphics engines for games, front-end and back-end we
 Some of my interesting projects:
 - [<img src="https://github.com/Niikelion/Guider/blob/dev/assets/project-logo.png?raw=true" height="21.6px" align="top"/>&nbsp;Guider](https://github.com/Niikelion/Guider) - GUI library
 - [<img src="https://github.com/Niikelion/Noder/blob/dev/assets/project-logo.png?raw=true" height="21.6px" align="top"/>&nbsp;Noder](https://github.com/Niikelion/Noder/tree/dev) - toolkit for visual scripting
+- [<img src="https://github.com/Niikelion/lithium-ui/blob/master/Assets~/logo.png?raw=true" height="21.6px" align="top"/>&nbsp;Lithium](https://github.com/Niikelion/lithium-ui/tree/master) - ui framework for unity
 
 Some of my projects in the proof-of-concept stage:
 - [Nhash](https://github.com/Niikelion/nhash) - compile-time string hashing
