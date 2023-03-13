@@ -8,13 +8,12 @@ Interested in physical and graphics engines for games, front-end and back-end we
 Some of my interesting projects:
 - [<img src="https://github.com/Niikelion/Guider/blob/dev/assets/project-logo.png?raw=true" height="21.6px" align="top"/>&nbsp;Guider](https://github.com/Niikelion/Guider) - GUI library
 - [<img src="https://github.com/Niikelion/Noder/blob/dev/assets/project-logo.png?raw=true" height="21.6px" align="top"/>&nbsp;Noder](https://github.com/Niikelion/Noder/tree/dev) - toolkit for visual scripting
-- [<img src="https://github.com/Niikelion/lithium-ui/blob/master/Assets~/logo.png?raw=true" height="21.6px" align="top"/>&nbsp;Lithium](https://github.com/Niikelion/lithium-ui/tree/master) - ui framework for unity
+- [<img src="https://github.com/Niikelion/lithium-ui/blob/master/Assets~/logo.png?raw=true" height="21.6px" align="top"/>&nbsp;Lithium](https://github.com/Niikelion/lithium-ui/tree/master) - reactive UI framework for unity
 
 Some of my projects in the proof-of-concept stage:
 - [Nhash](https://github.com/Niikelion/nhash) - compile-time string hashing
 - [Arcdoc](https://github.com/Niikelion/Arcdoc) - documentation generator
 - [Mia](https://github.com/TheReclif/MIA) - metadata generator for cpp
 - [Void](https://github.com/Niikelion/Voidlang) - void compiler
-- [Lithium](https://github.com/Niikelion/lithium-ui) - reactive UI framework for Unity
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Niikelion?color=%231DA1F2&label=Niikelion&logo=Twitter&style=for-the-badge)](https://twitter.com/Niikelion)
