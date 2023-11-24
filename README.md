@@ -15,6 +15,6 @@ Some of my projects in the proof-of-concept stage:
 - [Arcdoc](https://github.com/Niikelion/Arcdoc) - documentation generator
 - [Mia](https://github.com/TheReclif/MIA) - metadata generator for cpp
 - [Void](https://github.com/Niikelion/Voidlang/tree/dev) - void compiler
-- [Cargo](https://github.com/Niikelion/cargo-com) - CMS service/library
+- [Cargo](https://github.com/Niikelion/cargo-cms) - CMS service/library
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Niikelion?color=%231DA1F2&label=Niikelion&logo=Twitter&style=for-the-badge)](https://twitter.com/Niikelion)
