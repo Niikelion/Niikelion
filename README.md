@@ -11,6 +11,7 @@ Some of my interesting projects:
 - [<img src="https://github.com/Niikelion/lithium-ui/blob/master/Assets~/logo.png?raw=true" height="21.6px" align="top"/>&nbsp;Lithium](https://github.com/Niikelion/lithium-ui/tree/master) - reactive UI framework for unity
 
 Some of my projects in the proof-of-concept stage:
+- [WASM sandboxing] - presentation and POC for pausing, resuming, serializing and deserializing of wasm programs
 - [Nhash](https://github.com/Niikelion/nhash) - compile-time string hashing
 - [Arcdoc](https://github.com/Niikelion/Arcdoc) - documentation generator
 - [Mia](https://github.com/TheReclif/MIA) - metadata generator for cpp
