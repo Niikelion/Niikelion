@@ -3,7 +3,7 @@ Lead Developer at NE Games.
 
 Fluent in C# (Unity, low-level servers), Assembler, C, C++ (sfml, tools and servers). Knows JavaScript + TypeScript (Node.js, React.js, Next.js, serverless.ts), Lua, Python, Java + Kotlin (antlr4, Android and servers).
 
-Interested in physical and graphics engines for games, front-end and back-end web development, tools for task automation and parallel processing systems for use in servers and games, as well as text processing, especially designing and implementing various scripting and compiled languages.
+Interested in physics and graphics engines for games, front-end and back-end web development, tools for task automation and parallel processing systems for use in servers and games, as well as text processing, especially designing and implementing various scripting and compiled languages.
 
 Some of my interesting projects:
 
